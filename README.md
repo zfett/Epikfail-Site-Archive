@@ -3,6 +3,8 @@ An archive of the Epik leak website &amp; torrent.
 
 ---
 
+![Screenshot of the website](./site-screenshot.png)
+
 _Archived from the original site (https://4chan.partyvan.epikfail.is:55899/) on Sep. 15, 2021 at 11:45 PM._
 
 This is an archive of the Epikfail leak website + leak torrent. The `index.html` file is the webpage for the leak and the `OperationEpikFail.torrent` file is the leak torrent.
@@ -13,6 +15,7 @@ This is an archive of the Epikfail leak website + leak torrent. The `index.html`
   - index.html
   - OperationEpikFail.torrent
   - README.md
+  - site-screenshot.png
 ```
 
 The contents of the torrent are not currently available on this repo, but may be available elsewhere in the future.

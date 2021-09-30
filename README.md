@@ -19,7 +19,7 @@ _Archived from the original site (https://4chan.partyvan.epikfail.is:55899/) on 
 
 The contents of the torrent are not currently available on this repo, but may be available elsewhere in the future.
 
-An Internet Archive snapshot of the site is also available [here](http://web.archive.org/web/20210916034216/https://4chan.partyvan.epikfail.is:55899/).
+An Internet Archive snapshot of the site is also available [here](http://web.archive.org/web/*/https://4chan.partyvan.epikfail.is:55899/).
 
 ---
 

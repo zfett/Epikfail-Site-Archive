@@ -12,6 +12,7 @@ _Archived from the original site (https://4chan.partyvan.epikfail.is:55899/) on 
 - /
   - index.html
   - EpikFailBSides.torrent
+  - EpikFailYouLostTheGame.torrent
   - OperationEpikFail.torrent
   - README.md
   - site-screenshot.png
